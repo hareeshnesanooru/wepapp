@@ -1,5 +1,5 @@
 
-<project name="Hello" default="war" basedir=".">
+<project name="Webapp" default="war" basedir=".">
 
 
 	<!-- Define the properties used by the build -->
